@@ -4,7 +4,7 @@
   "description": "webpack, without the `pack`",
   "main": "index.js",
   "engines": {
-    "node": ">=7",
+    "node": ">=6",
     "npm": "*"
   },
   "dependencies": {},
